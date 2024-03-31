@@ -1,0 +1,3 @@
+1,2:Panne électrique
+3,4:Panne de disque dur
+5:Panne de RAM
