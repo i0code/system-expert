@@ -16,4 +16,4 @@ Cette interface est destinée à l'expert en informatique pour gérer les sympt�
 ### 2-Interface de l'Expert ('sess_expert.py')
 #### Exécutez le fichier 'sess_expert.py'.
 #### Utilisez l'interface pour ajouter, modifier ou supprimer des symptômes.
-##### Les règles sont automatiquement mises à jour dans le fichier 'regles.txt'.
+#### Les règles sont automatiquement mises à jour dans le fichier 'regles.txt'.
