@@ -9,11 +9,11 @@ Cette interface est destinée à l'expert en informatique pour gérer les sympt�
 #### 'base_connaissances.txt' : Contient une liste de symptômes observés sur un ordinateur.
 #### 'regles.txt' : Contient les règles qui déterminent les pannes possibles en fonction des symptômes observés.
 ### Utilisation
-#### 1-Interface Utilisateur ('systeme_expert.py')
-Exécutez le fichier 'systeme_expert.py'.
-Sélectionnez les symptômes observés en cochant les cases correspondantes.
-Cliquez sur le bouton "Diagnostiquer" pour obtenir le résultat du diagnostic.
-#### 2-Interface de l'Expert ('sess_expert.py')
-Exécutez le fichier 'sess_expert.py'.
-Utilisez l'interface pour ajouter, modifier ou supprimer des symptômes.
-Les règles sont automatiquement mises à jour dans le fichier 'regles.txt'.
+### 1-Interface Utilisateur ('systeme_expert.py')
+#### Exécutez le fichier 'systeme_expert.py'.
+#### Sélectionnez les symptômes observés en cochant les cases correspondantes.
+#### Cliquez sur le bouton "Diagnostiquer" pour obtenir le résultat du diagnostic.
+### 2-Interface de l'Expert ('sess_expert.py')
+#### Exécutez le fichier 'sess_expert.py'.
+#### Utilisez l'interface pour ajouter, modifier ou supprimer des symptômes.
+##### Les règles sont automatiquement mises à jour dans le fichier 'regles.txt'.
